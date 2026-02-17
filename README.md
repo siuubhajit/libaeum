@@ -1,2 +1,2 @@
 # evoaeum
-An opensource bookshelf.
+Bookshelf for bibliophiles.
